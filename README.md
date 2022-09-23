@@ -2,6 +2,11 @@
 
 Get all links from a web resource and check if any of them broken.
 
+## Build:
+```bash
+go build
+```
+
 ## Usage:
 ```bash
 ./checklinks https://www.example.com/
